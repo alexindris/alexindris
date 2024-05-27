@@ -1,12 +1,10 @@
 # 💫 About Me
 
-🔭 I’m currently working on secure practices over cloud infrastructure and code
+Passionate about simplifying cybersecurity through innovative solutions. I lead development teams and architect software to empower businesses. 
 
-🌱 I’m currently learning about cybersecurity, from pentester to forensic analysis.
+As a Solutions Architect & Development Team Lead I leverage my full-stack development expertise (Node.js, React, Vue.js, Laravel) to build and deliver SaaS platforms. 
 
-💬 Ask me about technologies cloud or systems and you will see a really passionate guy.
-
-⚡ Fun fact i have a electromechanical background and i apply it to work on a VW T4 that was build before i was born.
+These solutions streamline cybersecurity for organizations, reducing development time and ensuring product quality.
 
 ## 🌐 Socials
 
