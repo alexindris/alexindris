@@ -19,9 +19,6 @@
   <a href="https://www.linkedin.com/in/alex-tello-vidal/">
     <img src="https://img.shields.io/badge/LinkedIn-Alex%20Tello%20Vidal-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://alexindris.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-alexindris.github.io-2B6CB0?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
   <img src="https://img.shields.io/badge/Location-Barcelona%2C%20Spain-2F855A?style=flat-square" alt="Barcelona, Spain" />
 </p>
 
