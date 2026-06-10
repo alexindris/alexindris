@@ -40,19 +40,6 @@ I work across backend, frontend, mobile, cloud infrastructure, and AI integratio
 - Lead development work through sprint ownership, mentoring, code quality, and Agile delivery practices.
 - Bring a cybersecurity and DevOps mindset into product engineering instead of treating security as an afterthought.
 
-## Current Product Context
-
-I currently work across a startup product family that includes:
-
-| Product | Focus |
-| --- | --- |
-| Itera | AI-native product development platform for moving from idea to shipped code on existing codebases. |
-| Ara | Asynchronous meeting product for remote teams, focused on faster decisions and less meeting time. |
-| hiJoey | Child-safety communication product with AI-powered chat, moderation, and communication workflows. |
-| Polir | AI-assisted review workflow product. |
-
-Recent work includes chat and moderation systems, video and audio processing, transcription, summarization, AI-assisted review workflows, agent-based product experiences, Flutter development, backend systems, websites, app experiences, and infrastructure.
-
 ## Work I Can Talk About Publicly
 
 | Project | Why it matters |
